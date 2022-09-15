@@ -5,19 +5,19 @@
 
 
 TIT. (DA SÉ)(LA VORÌA LICENZIARE; MA NO SO COME FARE.)
-
-PAS. (A LUCIETTA)(VÀRDELO UN POCO.)p.(a lucietta)(guardato un poco!)
-
+  s.(da sè)(la vorrei licenziare;ma non so come fare)
+PAS. (A LUCIETTA)(VÀRDELO UN POCO.)
+  p.(a lucietta)(guardato un poco!)
 LUC. (A PASQUA)(EH! CHE HO DA VARDARE IL MIO MERLO, MÌ, HO DA VARDARE.)
 
 PAS. (DA SÉ)(GHE PESTERÀVE LA TESTA SU QUEL BALON).
 
 TIT. (DA SÉ)NO LA ME VARDA GNANCA. NO LA ME GH’HA GNANCA IN MÈNTE.)
 
-PAS. SIORÌA, TIT p signoria, titta-name.TA-NANE.
-
+PAS. SIORÌA, TITTA-NANE.
+ p signoria, titta-name.
 TT. SIORÌA.
-
+  signoria
 PAS.(A LUCIETTA)(SALÙDILO).
 
 LUC. (A PASQUA)(FIGURÈVE, SE VÒGGIO ESSER LA PRIMA MÌ!)
